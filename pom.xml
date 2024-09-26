@@ -51,7 +51,7 @@
 		<sonar.organization>telmogoiko</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>telmogoiko_monopolyintegracioncontinua</sonar.projectKey>
-		<sonar.login>aeb4db48c3a177afe8368c170d96e999ad7d5705</sonar.login>
+		<sonar.login>d8aaa670b94a1dbde04f14118b12cf50b274da0a</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
