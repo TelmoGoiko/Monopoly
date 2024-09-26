@@ -45,13 +45,8 @@
 	</repositories>
 
 	<properties>
-		<maven.compiler.target>1.8</maven.compiler.target>
-		<maven.compiler.source>1.8</maven.compiler.source>
-
 		<sonar.organization>telmogoiko</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>telmogoiko_monopolyintegracioncontinua</sonar.projectKey>
-		<sonar.login>d8aaa670b94a1dbde04f14118b12cf50b274da0a</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
