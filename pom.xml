@@ -48,10 +48,10 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 
-		<sonar.organization>jononekin</sonar.organization>
+		<sonar.organization>telmogoiko</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_monopoly-euskara</sonar.projectKey>
-		<sonar.login>69f0b261f26fe8390be129e064c0bf84e7a4c3b1</sonar.login>
+		<sonar.projectKey>telmogoiko_monopolyintegracioncontinua</sonar.projectKey>
+		<sonar.login>aeb4db48c3a177afe8368c170d96e999ad7d5705</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
